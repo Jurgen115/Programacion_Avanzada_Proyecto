@@ -1,4 +1,3 @@
-
 echo "Configurando reglas básicas de firewall..."
 
 sudo ufw --force reset
